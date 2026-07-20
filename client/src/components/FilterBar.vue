@@ -111,9 +111,7 @@ export default {
 }
 
 .filters-container {
-  max-width: 1600px;
-  margin: 0 auto;
-  padding: 0 2rem;
+  width: 100%;
   display: flex;
   align-items: center;
   gap: 1rem;
